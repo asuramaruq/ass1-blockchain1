@@ -1,6 +1,6 @@
 # CLI-based Simple Blockchain Representation
 
-##
+## Criterias
 
 1. Assymetric Encryption (Basic RSA implementation)
 2. Digital Signature
